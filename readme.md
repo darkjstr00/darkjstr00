@@ -1,4 +1,4 @@
-# darkjstr00
+# DarkJester
 
 > CTI researcher. Dark web. Infrastructure tracking. Threat analysis.
 
